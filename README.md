@@ -6,6 +6,10 @@
 ![App Image](https://healthandbeauty.ma/wp-content/uploads/2023/02/1-scaled.webp)
 
 
+## Demo
+
+- [Demo](https://63dcfb1729a111188fb4f49e--deft-longma-1cde7a.netlify.app/).
+
 ## Map and Plot Upload:
 The Web app includes a map, powered by Mapbox, that allows users to upload plots in the form of geojson files. The process of uploading a plot involves selecting a file from the local file system and clicking a button to upload the file to the app. Once the plot is uploaded, it will be displayed on the map, allowing users to visualize the location and shape of the plot. The process of uploading the plot should be straightforward and intuitive, allowing users to quickly and easily add new plots to the map. The geojson file format provides a standardized way of representing geographic data, ensuring that the data is compatible with the map and other tools used in the app.
 
